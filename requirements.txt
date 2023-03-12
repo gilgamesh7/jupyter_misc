@@ -3,6 +3,7 @@ appnope==0.1.2
 argon2-cffi==21.1.0
 argon2-cffi-bindings==21.2.0
 asttokens==2.0.5
+asyncio==3.4.3
 attrs==21.2.0
 Babel==2.9.1
 backcall==0.2.0
@@ -10,6 +11,7 @@ bleach==4.1.0
 certifi==2021.5.30
 cffi==1.14.6
 charset-normalizer==2.0.4
+codetiming==1.4.0
 cycler==0.10.0
 debugpy==1.4.1
 decorator==5.0.9
@@ -50,6 +52,7 @@ nest-asyncio==1.5.1
 notebook==6.4.3
 numpy==1.21.2
 packaging==21.0
+pandas==1.5.3
 pandocfilters==1.4.3
 parso==0.8.2
 pendulum==2.1.2
